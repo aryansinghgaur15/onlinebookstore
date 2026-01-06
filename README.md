@@ -1,4 +1,4 @@
-# 📚 Online Bookstore SQL Project
+.# 📚 Online Bookstore SQL Project
 
 ## 📌 Project Overview
 This project demonstrates SQL skills using an **Online Bookstore database**.  
